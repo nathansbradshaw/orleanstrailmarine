@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /one.html
+Allow: /index.html
+Allow: /about.html
+Allow: /shop.html
+Allow: /faq.html
